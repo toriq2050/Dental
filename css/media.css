@@ -1,0 +1,14 @@
+@media(max-width: 575px) {
+    .logo_mb {
+        display: none;
+    }
+    .main_logo {
+        display: inline-block;
+    }
+    .main_logo {
+        width: 150px;
+    }
+    .btn-appointment {
+        display: none;
+    }
+}
